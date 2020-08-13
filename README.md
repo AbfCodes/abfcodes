@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ...Fiverr and other freelancing plateforms
+- 🔭 I’m currently working on ...Fiverr and other freelancing platforms
 - 🌱 I’m currently learning ...Node.JS, Flutter, PWA
 - 👯 I’m looking to collaborate on ...Open Source projects
 - 🤔 I’m looking for help with ...Firebase
