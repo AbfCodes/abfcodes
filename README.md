@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on __Fiverr and other freelancing plateforms
-- 🌱 I’m currently learning __Node.JS, Flutter, PWA
-- 👯 I’m looking to collaborate on __Open Source projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about __My Work
-- 📫 How to reach me: [Profile] (https://www.facebook.com/abfCodes/)
-- 😄 Pronouns: __He/Him
+- 🔭 I’m currently working on ...Fiverr and other freelancing plateforms
+- 🌱 I’m currently learning ...Node.JS, Flutter, PWA
+- 👯 I’m looking to collaborate on ...Open Source projects
+- 🤔 I’m looking for help with ...Firebase
+- 💬 Ask me about ...My Work
+- 📫 How to reach me: ...[Profile] (https://www.facebook.com/abfCodes/)
+- 😄 Pronouns: ...He/Him
 -->
