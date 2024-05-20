@@ -1,16 +1,57 @@
-### Hi there 👋
 
-<!--
-**AbfCodes/abfcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Here are some ideas to get you started:
--->
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm ABDUL BASIT</h1></summary>
+  </ul>
+</div>
 
-- 🔭 I’m currently working on ...Fiverr and other freelancing platforms
-- 🌱 I’m currently learning ...Node.JS, Flutter, PWA
-- 👯 I’m looking to collaborate on ...Open Source projects
-- 🤔 I’m looking for help with ...Firebase
-- 💬 Ask me about ...My Work
-- 📫 How to reach me: ...[Profile](https://www.facebook.com/abfCodes/)
-- 😄 Pronouns: ...He/Him
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
+
+
+<!--Intro start-->
+- 🔭 I’m currently working on **AWS, Nodejs, Nestjs, React, React Native, Flutter, MongoDB, PostgreSQL, Primsa**
+
+- 🌱 I’m currently learning **Java and Spring Boot Framework.**
+
+- ☁️ I have a keen interest in cloud computing. So, I'm learning to become an **AWS Certified Solutions Architect**
+
+- 💬 Ask me about **AWS, React, React-native, Node.js, Nest.js, PostgreSQL MongoDB, etc..**
+
+- 📫 Feel free to reach me out at **abfcodes@gmail.com**
+
+<!--- 🏠 Don't hesitate to drop me a **👋** on Discord –  [abfcodes](https://discordapp.com/users/957722095381540874) my username! -->
+<!--Intro end-->
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,aws,nodejs,nestjs,js,ts,react,nextjs,docker,postgres,mongodb,mysql,prisma,pug,dynamodb,express,firebase,redis,html,java,linux,md,html,css,figma,discord,nginx,postman,py,redux,tailwind,vscode,kubernetes&perline=14" />
+  </a>
+</p>
+
+<br>
+<br>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
