@@ -20,7 +20,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/4de303eac04cfa8ab396815cdc67e7b6271cb82a/resources/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
